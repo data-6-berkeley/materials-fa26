@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - main
-    # Only run the workflow if generated student notebooks have changed
     paths:
       - 'lec/**'
   workflow_dispatch:

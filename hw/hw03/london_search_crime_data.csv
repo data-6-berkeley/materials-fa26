@@ -1,0 +1,219 @@
+,type,date,gender,age_range,self_defined_ethnicity,officer_defined_ethnicity,object_of_search,outcome,drop,ethnicity_bi,officer_ethnicity_bi
+0,Person search,2026-07-01,Male,over 34,White - Any other White background,White,Stolen goods,A no further action disposal,17:00:00+00:00,white,white
+1,Person search,2026-07-01,Male,over 34,Other ethnic group - Not stated,White,Offensive weapons,A no further action disposal,21:37:00+00:00,other,white
+2,Person search,2026-07-02,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,Stolen goods,A no further action disposal,14:55:00+00:00,white,white
+3,Person search,2026-07-02,Male,over 34,Other ethnic group - Any other ethnic group,Other,Article for use in theft,A no further action disposal,19:50:00+00:00,other,other
+5,Person and Vehicle search,2026-07-03,Male,18-24,White - Any other White background,White,Controlled drugs,Arrest,12:50:00+00:00,white,white
+6,Person search,2026-07-07,Male,over 34,Other ethnic group - Not stated,White,Stolen goods,A no further action disposal,06:13:00+00:00,other,white
+7,Person search,2026-07-07,Male,over 34,White - Any other White background,White,Article for use in theft,Arrest,07:34:00+00:00,white,white
+8,Person search,2026-07-07,Male,18-24,Other ethnic group - Not stated,White,Article for use in theft,Arrest,07:35:00+00:00,other,white
+9,Person search,2026-07-07,Male,25-34,Asian/Asian British - Bangladeshi,Asian,Stolen goods,Arrest,08:58:00+00:00,other,other
+10,Person search,2026-07-09,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,Controlled drugs,Community resolution,14:00:00+00:00,white,white
+11,Person and Vehicle search,2026-07-09,Female,25-34,White - Any other White background,White,Controlled drugs,Arrest,17:37:00+00:00,white,white
+12,Person and Vehicle search,2026-07-11,Male,25-34,Asian/Asian British - Bangladeshi,Asian,Controlled drugs,A no further action disposal,09:00:00+00:00,other,other
+13,Person and Vehicle search,2026-07-12,Male,25-34,Asian/Asian British - Bangladeshi,Asian,Controlled drugs,Arrest,02:00:00+00:00,other,other
+14,Person search,2026-07-12,Female,25-34,Other ethnic group - Not stated,Asian,Controlled drugs,A no further action disposal,02:00:00+00:00,other,other
+15,Person search,2026-07-12,Female,25-34,Other ethnic group - Not stated,Asian,Controlled drugs,A no further action disposal,02:00:00+00:00,other,other
+16,Person search,2026-07-12,Male,25-34,Other ethnic group - Not stated,Asian,Controlled drugs,A no further action disposal,02:03:00+00:00,other,other
+17,Person search,2026-07-13,Male,25-34,White - Any other White background,White,Article for use in theft,Arrest,09:10:00+00:00,white,white
+18,Person search,2026-07-14,Male,over 34,White - Any other White background,White,Stolen goods,A no further action disposal,08:35:00+00:00,white,white
+19,Person search,2026-07-14,Male,over 34,Other ethnic group - Not stated,Black,Controlled drugs,A no further action disposal,09:51:00+00:00,other,other
+20,Person search,2026-07-14,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,Stolen goods,A no further action disposal,13:56:00+00:00,white,white
+21,Person search,2026-07-14,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,Article for use in theft,A no further action disposal,14:00:00+00:00,white,white
+22,Person search,2026-07-14,Male,25-34,Asian/Asian British - Any other Asian background,Asian,Stolen goods,A no further action disposal,14:10:00+00:00,other,other
+24,Person and Vehicle search,2026-07-15,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,Controlled drugs,Arrest,00:20:00+00:00,white,white
+25,Person search,2026-07-15,Male,10-17,Asian/Asian British - Bangladeshi,Asian,Controlled drugs,A no further action disposal,12:30:00+00:00,other,other
+26,Person search,2026-07-15,Male,18-24,Asian/Asian British - Pakistani,Asian,Controlled drugs,Community resolution,17:51:00+00:00,other,other
+27,Person and Vehicle search,2026-07-15,Male,25-34,Mixed/Multiple ethnic groups - White and Black African,Black,Controlled drugs,A no further action disposal,18:02:00+00:00,other,other
+28,Person and Vehicle search,2026-07-15,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,Controlled drugs,A no further action disposal,18:02:00+00:00,white,white
+29,Person search,2026-07-15,Male,25-34,White - Any other White background,White,Controlled drugs,Arrest,18:40:00+00:00,white,white
+30,Person search,2026-07-16,Male,25-34,Other ethnic group - Not stated,Black,Stolen goods,A no further action disposal,10:45:00+00:00,other,other
+31,Person search,2026-07-16,Male,18-24,White - Any other White background,White,Controlled drugs,Arrest,15:15:00+00:00,white,white
+32,Person search,2026-07-16,Male,18-24,Mixed/Multiple ethnic groups - White and Black African,Other,Article for use in theft,Arrest,17:25:00+00:00,other,other
+33,Person and Vehicle search,2026-07-16,Male,18-24,Asian/Asian British - Any other Asian background,Other,Controlled drugs,Arrest,22:45:00+00:00,other,other
+34,Person search,2026-07-16,Male,18-24,Other ethnic group - Not stated,Other,Controlled drugs,A no further action disposal,22:45:00+00:00,other,other
+35,Person and Vehicle search,2026-07-16,Male,18-24,Mixed/Multiple ethnic groups - Any other Mixed/Multiple ethnic background,Other,Controlled drugs,Arrest,22:45:00+00:00,other,other
+36,Person search,2026-07-17,Male,25-34,Mixed/Multiple ethnic groups - Any other Mixed/Multiple ethnic background,Other,Controlled drugs,Community resolution,13:35:00+00:00,other,other
+37,Person and Vehicle search,2026-07-17,Male,25-34,Asian/Asian British - Bangladeshi,Asian,Controlled drugs,A no further action disposal,17:34:00+00:00,other,other
+39,Person search,2026-07-17,Male,18-24,Other ethnic group - Not stated,Other,Controlled drugs,Community resolution,20:31:00+00:00,other,other
+40,Person search,2026-07-18,Male,over 34,White - Any other White background,White,Article for use in theft,A no further action disposal,11:13:00+00:00,white,white
+41,Person search,2026-07-18,Male,over 34,White - Any other White background,White,Controlled drugs,A no further action disposal,20:19:00+00:00,white,white
+42,Person search,2026-07-18,Male,18-24,Other ethnic group - Not stated,White,Controlled drugs,Arrest,20:53:00+00:00,other,white
+43,Person search,2026-07-19,Male,25-34,Black/African/Caribbean/Black British - African,Black,Controlled drugs,Community resolution,17:30:00+00:00,other,other
+44,Person search,2026-07-20,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,Stolen goods,A no further action disposal,00:12:00+00:00,white,white
+45,Person search,2026-07-20,Female,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,Stolen goods,A no further action disposal,00:13:00+00:00,white,white
+46,Person and Vehicle search,2026-07-20,Male,25-34,Mixed/Multiple ethnic groups - White and Black African,Black,Controlled drugs,A no further action disposal,09:40:00+00:00,other,other
+47,Person and Vehicle search,2026-07-20,Male,18-24,Asian/Asian British - Pakistani,Other,Controlled drugs,Community resolution,10:05:00+00:00,other,other
+48,Person and Vehicle search,2026-07-21,Male,18-24,Mixed/Multiple ethnic groups - White and Asian,Asian,Evidence of offences under the Act,Arrest,10:25:00+00:00,other,other
+49,Person and Vehicle search,2026-07-21,Male,18-24,Other ethnic group - Not stated,Black,Evidence of offences under the Act,A no further action disposal,14:28:00+00:00,other,other
+50,Person search,2026-07-22,Female,25-34,Other ethnic group - Not stated,White,Offensive weapons,A no further action disposal,02:33:00+00:00,other,white
+51,Person search,2026-07-22,Male,over 34,Other ethnic group - Not stated,White,Stolen goods,A no further action disposal,13:12:00+00:00,other,white
+52,Person search,2026-07-22,Male,18-24,White - Any other White background,White,Stolen goods,A no further action disposal,13:12:00+00:00,white,white
+53,Person search,2026-07-22,Male,over 34,Asian/Asian British - Pakistani,Asian,Offensive weapons,A no further action disposal,18:03:00+00:00,other,other
+54,Person search,2026-07-22,Male,25-34,Black/African/Caribbean/Black British - Any other Black/African/Caribbean background,Black,Offensive weapons,A no further action disposal,18:44:00+00:00,other,other
+55,Person search,2026-07-23,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,Article for use in theft,A no further action disposal,10:52:00+00:00,white,white
+56,Person search,2026-07-23,Male,18-24,Other ethnic group - Not stated,Other,Article for use in theft,A no further action disposal,13:35:00+00:00,other,other
+57,Person search,2026-07-23,Male,18-24,Mixed/Multiple ethnic groups - Any other Mixed/Multiple ethnic background,Other,Article for use in theft,A no further action disposal,13:35:00+00:00,other,other
+58,Person search,2026-07-23,Female,10-17,Black/African/Caribbean/Black British - African,Black,Offensive weapons,A no further action disposal,14:16:00+00:00,other,other
+59,Person search,2026-07-23,Female,25-34,Black/African/Caribbean/Black British - Caribbean,Black,Stolen goods,Community resolution,14:30:00+00:00,other,other
+60,Person search,2026-07-23,Male,over 34,Other ethnic group - Not stated,Other,Stolen goods,Arrest,16:45:00+00:00,other,other
+61,Person search,2026-07-23,Male,over 34,White - Any other White background,White,Stolen goods,A no further action disposal,17:28:00+00:00,white,white
+62,Person search,2026-07-23,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,Stolen goods,A no further action disposal,17:30:00+00:00,white,white
+63,Person search,2026-07-23,Male,over 34,Other ethnic group - Not stated,Black,Article for use in theft,A no further action disposal,17:40:00+00:00,other,other
+65,Person and Vehicle search,2026-07-23,Male,25-34,Asian/Asian British - Bangladeshi,Asian,Controlled drugs,A no further action disposal,18:57:00+00:00,other,other
+66,Person search,2026-07-24,Male,25-34,Asian/Asian British - Bangladeshi,Asian,Stolen goods,Arrest,00:17:00+00:00,other,other
+69,Person search,2026-07-25,Female,25-34,Mixed/Multiple ethnic groups - White and Black Caribbean,Black,Fireworks,A no further action disposal,02:54:00+00:00,other,other
+70,Person search,2026-07-25,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,Offensive weapons,A no further action disposal,14:51:00+00:00,white,white
+71,Person search,2026-07-26,Male,25-34,Black/African/Caribbean/Black British - African,Black,Article for use in theft,A no further action disposal,10:21:00+00:00,other,other
+72,Person search,2026-07-26,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,Stolen goods,Arrest,15:15:00+00:00,white,white
+75,Person search,2026-07-26,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,Stolen goods,A no further action disposal,17:56:00+00:00,white,white
+76,Person search,2026-07-26,Male,over 34,White - Any other White background,White,Stolen goods,A no further action disposal,17:56:00+00:00,white,white
+77,Person search,2026-07-27,Male,10-17,Other ethnic group - Not stated,Black,Offensive weapons,A no further action disposal,02:14:00+00:00,other,other
+78,Person search,2026-07-27,Male,18-24,White - Any other White background,White,Controlled drugs,Arrest,20:38:00+00:00,white,white
+79,Person search,2026-07-27,Male,18-24,Other ethnic group - Any other ethnic group,Asian,Controlled drugs,Arrest,20:51:00+00:00,other,other
+80,Person search,2026-07-28,Male,18-24,Other ethnic group - Any other ethnic group,White,Controlled drugs,Community resolution,16:00:00+00:00,other,white
+81,Person search,2026-07-29,Male,25-34,Other ethnic group - Not stated,Black,Controlled drugs,A no further action disposal,21:20:00+00:00,other,other
+82,Person search,2026-07-30,Male,25-34,Other ethnic group - Not stated,White,Article for use in theft,A no further action disposal,13:35:00+00:00,other,white
+83,Person search,2026-07-30,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,Stolen goods,A no further action disposal,13:40:00+00:00,white,white
+84,Person and Vehicle search,2026-07-30,Male,25-34,Asian/Asian British - Bangladeshi,Asian,Controlled drugs,Arrest,14:41:00+00:00,other,other
+85,Person search,2026-07-30,Male,over 34,White - Any other White background,White,Stolen goods,A no further action disposal,14:47:00+00:00,white,white
+86,Person search,2026-07-30,Female,over 34,Other ethnic group - Any other ethnic group,Other,Article for use in theft,A no further action disposal,15:42:00+00:00,other,other
+87,Person search,2026-07-30,Male,over 34,White - Any other White background,White,Stolen goods,Arrest,17:20:00+00:00,white,white
+88,Person search,2026-07-30,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,Controlled drugs,Community resolution,21:12:00+00:00,white,white
+89,Person search,2026-07-30,Male,over 34,Other ethnic group - Not stated,White,Stolen goods,A no further action disposal,22:04:00+00:00,other,white
+90,Person search,2026-07-31,Male,10-17,Other ethnic group - Not stated,White,Article for use in theft,A no further action disposal,00:45:00+00:00,other,white
+91,Person search,2026-07-31,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,Article for use in theft,A no further action disposal,01:11:00+00:00,white,white
+92,Person and Vehicle search,2026-07-31,Male,25-34,White - Any other White background,White,Controlled drugs,A no further action disposal,16:33:00+00:00,white,white
+93,Person search,2026-07-31,Male,10-17,Mixed/Multiple ethnic groups - Any other Mixed/Multiple ethnic background,Other,Article for use in theft,A no further action disposal,20:20:00+00:00,other,other
+94,Person search,2026-07-31,Male,10-17,Other ethnic group - Not stated,Black,Article for use in theft,A no further action disposal,20:22:00+00:00,other,other
+95,Person search,2026-07-31,Male,10-17,Other ethnic group - Not stated,Black,Article for use in theft,A no further action disposal,20:24:00+00:00,other,other
+96,Person search,2026-07-31,Male,10-17,Other ethnic group - Not stated,Black,Stolen goods,A no further action disposal,20:25:00+00:00,other,other
+0,Person and Vehicle search,2026-08-02,Male,18-24,White - Any other White background,White,Controlled drugs,A no further action disposal,12:55:00+00:00,white,white
+1,Person search,2026-08-03,Male,18-24,Other ethnic group - Not stated,White,Article for use in theft,A no further action disposal,00:30:00+00:00,other,white
+2,Person search,2026-08-03,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,Stolen goods,A no further action disposal,00:30:00+00:00,white,white
+3,Person search,2026-08-03,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,Stolen goods,A no further action disposal,14:00:00+00:00,white,white
+4,Person search,2026-08-03,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,Article for use in theft,A no further action disposal,14:05:00+00:00,white,white
+5,Person search,2026-08-03,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,Article for use in theft,A no further action disposal,15:30:00+00:00,white,white
+6,Person search,2026-08-03,Male,18-24,Other ethnic group - Not stated,Black,Offensive weapons,A no further action disposal,23:57:00+00:00,other,other
+7,Person search,2026-08-04,Male,18-24,Black/African/Caribbean/Black British - African,Black,Article for use in theft,A no further action disposal,23:10:00+00:00,other,other
+8,Person search,2026-08-04,Male,18-24,Black/African/Caribbean/Black British - Caribbean,Black,Article for use in theft,A no further action disposal,23:10:00+00:00,other,other
+9,Person search,2026-08-04,Male,18-24,Other ethnic group - Not stated,Black,Article for use in theft,A no further action disposal,23:10:00+00:00,other,other
+10,Person search,2026-08-04,Male,18-24,Black/African/Caribbean/Black British - African,Black,Article for use in theft,A no further action disposal,23:10:00+00:00,other,other
+11,Person search,2026-08-05,Male,over 34,White - Any other White background,White,Article for use in theft,A no further action disposal,12:30:00+00:00,white,white
+12,Person and Vehicle search,2026-08-05,Male,18-24,Black/African/Caribbean/Black British - African,White,Controlled drugs,Community resolution,21:40:00+00:00,other,white
+13,Person search,2026-08-06,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,Stolen goods,Community resolution,14:00:00+00:00,white,white
+14,Person and Vehicle search,2026-08-06,Male,18-24,Black/African/Caribbean/Black British - African,Black,Controlled drugs,A no further action disposal,15:58:00+00:00,other,other
+16,Person and Vehicle search,2026-08-06,Male,18-24,Other ethnic group - Any other ethnic group,White,Controlled drugs,Arrest,16:34:00+00:00,other,white
+17,Person search,2026-08-06,Male,over 34,White - Any other White background,White,Article for use in theft,A no further action disposal,17:18:00+00:00,white,white
+18,Person search,2026-08-06,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,Stolen goods,Arrest,19:30:00+00:00,white,white
+19,Person and Vehicle search,2026-08-06,Male,25-34,Black/African/Caribbean/Black British - African,Black,Controlled drugs,Arrest,21:33:00+00:00,other,other
+20,Person search,2026-08-06,Male,18-24,White - Any other White background,White,Controlled drugs,Arrest,22:10:00+00:00,white,white
+21,Person search,2026-08-07,Male,over 34,Other ethnic group - Not stated,Black,Stolen goods,A no further action disposal,07:35:00+00:00,other,other
+22,Person search,2026-08-07,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,Article for use in theft,A no further action disposal,20:05:00+00:00,white,white
+23,Person search,2026-08-08,Male,10-17,Other ethnic group - Not stated,Black,Offensive weapons,A no further action disposal,18:58:00+00:00,other,other
+24,Person search,2026-08-08,Male,10-17,Black/African/Caribbean/Black British - Any other Black/African/Caribbean background,Black,Offensive weapons,A no further action disposal,19:00:00+00:00,other,other
+28,Person search,2026-08-11,Male,over 34,Other ethnic group - Any other ethnic group,Other,Detailed object of search unavailable,A no further action disposal,20:09:00+00:00,other,other
+29,Person search,2026-08-11,Male,25-34,Asian/Asian British - Any other Asian background,Other,Evidence of offences under the Act,A no further action disposal,20:20:00+00:00,other,other
+30,Person search,2026-08-12,Male,18-24,Other ethnic group - Not stated,Black,Offensive weapons,A no further action disposal,17:17:00+00:00,other,other
+31,Person search,2026-08-12,Male,10-17,Other ethnic group - Not stated,Black,Stolen goods,A no further action disposal,18:35:00+00:00,other,other
+32,Person search,2026-08-13,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,Controlled drugs,Community resolution,11:50:00+00:00,white,white
+33,Person search,2026-08-13,Male,25-34,Other ethnic group - Not stated,Other,Stolen goods,A no further action disposal,13:25:00+00:00,other,other
+34,Person search,2026-08-13,Male,over 34,Other ethnic group - Not stated,White,Offensive weapons,Arrest,13:48:00+00:00,other,white
+35,Person search,2026-08-13,Male,25-34,Other ethnic group - Not stated,Other,Article for use in theft,Arrest,15:15:00+00:00,other,other
+36,Person and Vehicle search,2026-08-13,Female,25-34,Other ethnic group - Not stated,Other,Controlled drugs,Arrest,21:25:00+00:00,other,other
+37,Person and Vehicle search,2026-08-13,Male,25-34,Mixed/Multiple ethnic groups - Any other Mixed/Multiple ethnic background,White,Evidence of offences under the Act,Arrest,21:33:00+00:00,other,white
+38,Person search,2026-08-13,Male,18-24,Other ethnic group - Not stated,Black,Offensive weapons,A no further action disposal,22:00:00+00:00,other,other
+40,Person search,2026-08-13,Male,25-34,Black/African/Caribbean/Black British - Caribbean,Black,Offensive weapons,A no further action disposal,22:55:00+00:00,other,other
+41,Person search,2026-08-14,Male,over 34,Other ethnic group - Not stated,White,Offensive weapons,A no further action disposal,01:10:00+00:00,other,white
+42,Person search,2026-08-14,Male,over 34,Mixed/Multiple ethnic groups - White and Black Caribbean,Black,Article for use in theft,A no further action disposal,07:25:00+00:00,other,other
+43,Person search,2026-08-14,Male,over 34,Mixed/Multiple ethnic groups - Any other Mixed/Multiple ethnic background,Black,Article for use in theft,Arrest,07:30:00+00:00,other,other
+44,Person and Vehicle search,2026-08-14,Male,18-24,Other ethnic group - Not stated,White,Controlled drugs,A no further action disposal,16:40:00+00:00,other,white
+45,Person search,2026-08-14,Male,25-34,Asian/Asian British - Any other Asian background,Other,Firearms,A no further action disposal,18:35:00+00:00,other,other
+46,Person and Vehicle search,2026-08-14,Male,over 34,White - Any other White background,White,Controlled drugs,A no further action disposal,23:10:00+00:00,white,white
+47,Person and Vehicle search,2026-08-15,Female,18-24,Black/African/Caribbean/Black British - African,Black,Controlled drugs,A no further action disposal,02:25:00+00:00,other,other
+48,Person search,2026-08-15,Male,over 34,Other ethnic group - Any other ethnic group,White,Controlled drugs,Arrest,15:05:00+00:00,other,white
+50,Person and Vehicle search,2026-08-16,Male,18-24,Other ethnic group - Not stated,Black,Controlled drugs,A no further action disposal,01:00:00+00:00,other,other
+51,Person and Vehicle search,2026-08-16,Male,18-24,Mixed/Multiple ethnic groups - White and Asian,Asian,Controlled drugs,Community resolution,01:02:00+00:00,other,other
+52,Person and Vehicle search,2026-08-16,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,Controlled drugs,Arrest,01:02:00+00:00,white,white
+53,Person search,2026-08-16,Female,18-24,Mixed/Multiple ethnic groups - Any other Mixed/Multiple ethnic background,Black,Controlled drugs,A no further action disposal,01:04:00+00:00,other,other
+54,Person search,2026-08-16,Male,10-17,Other ethnic group - Not stated,Black,Controlled drugs,A no further action disposal,01:45:00+00:00,other,other
+55,Person and Vehicle search,2026-08-16,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,Stolen goods,Arrest,03:20:00+00:00,white,white
+56,Person and Vehicle search,2026-08-18,Male,over 34,Other ethnic group - Not stated,White,Controlled drugs,A no further action disposal,01:16:00+00:00,other,white
+57,Person and Vehicle search,2026-08-18,Male,18-24,Other ethnic group - Any other ethnic group,Asian,Controlled drugs,A no further action disposal,02:50:00+00:00,other,other
+58,Person search,2026-08-18,Male,18-24,Black/African/Caribbean/Black British - African,Black,Article for use in theft,Arrest,19:33:00+00:00,other,other
+59,Person search,2026-08-19,Male,10-17,Other ethnic group - Not stated,Asian,Controlled drugs,A no further action disposal,11:50:00+00:00,other,other
+60,Person search,2026-08-19,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,Article for use in theft,A no further action disposal,14:00:00+00:00,white,white
+61,Person search,2026-08-19,Male,over 34,White - Any other White background,White,Stolen goods,A no further action disposal,14:21:00+00:00,white,white
+62,Person and Vehicle search,2026-08-19,Male,25-34,Other ethnic group - Any other ethnic group,White,Evidence of offences under the Act,A no further action disposal,15:45:00+00:00,other,white
+63,Person and Vehicle search,2026-08-19,Male,over 34,Other ethnic group - Not stated,White,Evidence of offences under the Act,A no further action disposal,15:45:00+00:00,other,white
+64,Person search,2026-08-20,Male,25-34,Black/African/Caribbean/Black British - African,Black,Article for use in theft,A no further action disposal,00:25:00+00:00,other,other
+65,Person search,2026-08-20,Male,25-34,Other ethnic group - Any other ethnic group,White,Controlled drugs,A no further action disposal,00:50:00+00:00,other,white
+66,Person search,2026-08-20,Female,over 34,White - Any other White background,White,Article for use in theft,A no further action disposal,10:26:00+00:00,white,white
+67,Person search,2026-08-20,Female,over 34,White - Any other White background,White,Article for use in theft,A no further action disposal,10:27:00+00:00,white,white
+68,Person search,2026-08-20,Male,over 34,Black/African/Caribbean/Black British - African,Black,Article for use in theft,A no further action disposal,11:07:00+00:00,other,other
+70,Person search,2026-08-20,Female,over 34,Other ethnic group - Not stated,White,Stolen goods,A no further action disposal,18:10:00+00:00,other,white
+71,Person search,2026-08-20,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,Controlled drugs,A no further action disposal,21:25:00+00:00,white,white
+72,Person search,2026-08-21,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,Controlled drugs,A no further action disposal,00:37:00+00:00,white,white
+73,Person search,2026-08-22,Male,over 34,Other ethnic group - Not stated,White,Stolen goods,Arrest,18:17:00+00:00,other,white
+74,Person search,2026-08-22,Male,over 34,Black/African/Caribbean/Black British - Caribbean,Black,Firearms,A no further action disposal,20:17:00+00:00,other,other
+75,Person and Vehicle search,2026-08-22,Male,25-34,Black/African/Caribbean/Black British - Caribbean,Black,Firearms,A no further action disposal,20:18:00+00:00,other,other
+76,Person search,2026-08-23,Male,25-34,Other ethnic group - Not stated,White,Controlled drugs,A no further action disposal,18:43:00+00:00,other,white
+77,Person and Vehicle search,2026-08-23,Male,25-34,White - Any other White background,White,Controlled drugs,Arrest,19:00:00+00:00,white,white
+78,Person search,2026-08-25,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,Controlled drugs,A no further action disposal,08:50:00+00:00,white,white
+80,Person and Vehicle search,2026-08-25,Male,25-34,White - Any other White background,White,Controlled drugs,Arrest,17:17:00+00:00,white,white
+81,Person search,2026-08-25,Male,25-34,White - Any other White background,White,Controlled drugs,Arrest,17:54:00+00:00,white,white
+82,Person search,2026-08-26,Male,25-34,Other ethnic group - Any other ethnic group,Black,Article for use in theft,A no further action disposal,07:00:00+00:00,other,other
+83,Person search,2026-08-26,Male,over 34,Mixed/Multiple ethnic groups - White and Black Caribbean,Black,Stolen goods,A no further action disposal,07:35:00+00:00,other,other
+84,Person search,2026-08-26,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,Article for use in theft,Arrest,13:16:00+00:00,white,white
+85,Person search,2026-08-26,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,Article for use in theft,A no further action disposal,13:20:00+00:00,white,white
+87,Person and Vehicle search,2026-08-26,Male,25-34,White - Any other White background,White,Controlled drugs,Arrest,21:40:00+00:00,white,white
+88,Person search,2026-08-26,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,Controlled drugs,Community resolution,22:16:00+00:00,white,white
+89,Person and Vehicle search,2026-08-27,Male,25-34,Black/African/Caribbean/Black British - African,Black,Controlled drugs,A no further action disposal,14:20:00+00:00,other,other
+90,Person and Vehicle search,2026-08-27,Male,18-24,Black/African/Caribbean/Black British - African,Black,Controlled drugs,A no further action disposal,14:20:00+00:00,other,other
+91,Person search,2026-08-27,Male,over 34,Mixed/Multiple ethnic groups - White and Asian,White,Article for use in theft,A no further action disposal,18:45:00+00:00,other,white
+92,Person search,2026-08-27,Male,18-24,Asian/Asian British - Bangladeshi,Asian,Controlled drugs,A no further action disposal,21:22:00+00:00,other,other
+93,Person search,2026-08-27,Male,18-24,White - Any other White background,White,Controlled drugs,Arrest,21:44:00+00:00,white,white
+94,Person search,2026-08-27,Male,18-24,White - Any other White background,White,Controlled drugs,Arrest,22:53:00+00:00,white,white
+95,Person search,2026-08-28,Male,18-24,Black/African/Caribbean/Black British - African,Black,Article for use in theft,Arrest,08:33:00+00:00,other,other
+96,Person search,2026-08-28,Male,18-24,Black/African/Caribbean/Black British - African,Black,Stolen goods,Arrest,08:33:00+00:00,other,other
+97,Person search,2026-08-28,Male,25-34,Other ethnic group - Not stated,White,Stolen goods,A no further action disposal,09:07:00+00:00,other,white
+98,Person search,2026-08-28,Male,over 34,Mixed/Multiple ethnic groups - Any other Mixed/Multiple ethnic background,Black,Article for use in theft,Arrest,14:26:00+00:00,other,other
+99,Person search,2026-08-28,Male,18-24,White - Any other White background,White,Article for use in theft,Arrest,14:26:00+00:00,white,white
+100,Person search,2026-08-28,Male,over 34,White - Any other White background,White,Article for use in theft,A no further action disposal,15:15:00+00:00,white,white
+101,Person search,2026-08-28,Male,18-24,Other ethnic group - Not stated,White,Controlled drugs,Arrest,15:45:00+00:00,other,white
+102,Person and Vehicle search,2026-08-29,Male,over 34,Black/African/Caribbean/Black British - Caribbean,Black,Controlled drugs,Arrest,11:11:00+00:00,other,other
+104,Person search,2026-08-29,Female,10-17,Other ethnic group - Not stated,Black,Firearms,A no further action disposal,23:27:00+00:00,other,other
+105,Person and Vehicle search,2026-08-30,Male,18-24,Black/African/Caribbean/Black British - African,Black,Controlled drugs,Community resolution,04:04:00+00:00,other,other
+106,Person search,2026-08-30,Female,over 34,Other ethnic group - Not stated,Black,Stolen goods,Community resolution,07:59:00+00:00,other,other
+115,Person search,2026-08-30,Male,18-24,Other ethnic group - Not stated,Black,Offensive weapons,A no further action disposal,12:15:00+00:00,other,other
+118,Person search,2026-08-30,Male,18-24,Mixed/Multiple ethnic groups - Any other Mixed/Multiple ethnic background,Black,Evidence of offences under the Act,A no further action disposal,12:20:00+00:00,other,other
+119,Person search,2026-08-30,Male,10-17,Other ethnic group - Not stated,Black,Evidence of offences under the Act,A no further action disposal,12:27:00+00:00,other,other
+120,Person search,2026-08-30,Male,10-17,Other ethnic group - Not stated,Black,Evidence of offences under the Act,A no further action disposal,12:27:00+00:00,other,other
+121,Person search,2026-08-30,Male,25-34,Black/African/Caribbean/Black British - African,Black,Evidence of offences under the Act,A no further action disposal,12:32:00+00:00,other,other
+122,Person search,2026-08-30,Male,18-24,Other ethnic group - Not stated,Black,Evidence of offences under the Act,A no further action disposal,12:51:00+00:00,other,other
+127,Person search,2026-08-30,Male,18-24,Black/African/Caribbean/Black British - Caribbean,Black,Evidence of offences under the Act,A no further action disposal,13:26:00+00:00,other,other
+129,Person search,2026-08-30,Male,25-34,Black/African/Caribbean/Black British - Any other Black/African/Caribbean background,Black,Psychoactive substances,A no further action disposal,13:50:00+00:00,other,other
+142,Person search,2026-08-30,Male,25-34,Other ethnic group - Any other ethnic group,White,Controlled drugs,A no further action disposal,15:08:00+00:00,other,white
+143,Person and Vehicle search,2026-08-30,Female,over 34,Black/African/Caribbean/Black British - Any other Black/African/Caribbean background,Black,Controlled drugs,A no further action disposal,15:17:00+00:00,other,other
+144,Person and Vehicle search,2026-08-30,Male,over 34,Black/African/Caribbean/Black British - African,Black,Controlled drugs,Arrest,15:20:00+00:00,other,other
+146,Person search,2026-08-30,Male,25-34,Other ethnic group - Not stated,White,Controlled drugs,A no further action disposal,15:51:00+00:00,other,white
+149,Person search,2026-08-30,Male,25-34,Black/African/Caribbean/Black British - Caribbean,Black,Psychoactive substances,A no further action disposal,16:18:00+00:00,other,other
+153,Person search,2026-08-30,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,Controlled drugs,A no further action disposal,17:45:00+00:00,white,white
+157,Person search,2026-08-30,Male,25-34,Black/African/Caribbean/Black British - African,Black,Psychoactive substances,A no further action disposal,18:16:00+00:00,other,other
+160,Person search,2026-08-30,Male,25-34,Black/African/Caribbean/Black British - African,Black,Offensive weapons,A no further action disposal,18:39:00+00:00,other,other
+161,Person search,2026-08-30,Male,18-24,Mixed/Multiple ethnic groups - White and Black African,White,Offensive weapons,A no further action disposal,19:05:00+00:00,other,white
+162,Person search,2026-08-30,Male,18-24,Black/African/Caribbean/Black British - Any other Black/African/Caribbean background,Black,Stolen goods,A no further action disposal,21:00:00+00:00,other,other
+163,Person search,2026-08-31,Male,18-24,Black/African/Caribbean/Black British - African,Black,Evidence of offences under the Act,A no further action disposal,10:25:00+00:00,other,other
+165,Person search,2026-08-31,Male,10-17,Black/African/Caribbean/Black British - African,Black,Offensive weapons,A no further action disposal,10:33:00+00:00,other,other
+166,Person search,2026-08-31,Male,10-17,Black/African/Caribbean/Black British - Any other Black/African/Caribbean background,Black,Article for use in theft,A no further action disposal,10:45:00+00:00,other,other
+167,Person search,2026-08-31,Male,10-17,Black/African/Caribbean/Black British - African,Black,Detailed object of search unavailable,A no further action disposal,10:58:00+00:00,other,other
+168,Person search,2026-08-31,Male,10-17,Black/African/Caribbean/Black British - African,Black,Evidence of offences under the Act,A no further action disposal,11:00:00+00:00,other,other
+170,Person search,2026-08-31,Male,10-17,Black/African/Caribbean/Black British - African,Black,Detailed object of search unavailable,A no further action disposal,11:19:00+00:00,other,other
+177,Person search,2026-08-31,Male,over 34,Other ethnic group - Any other ethnic group,Other,Evidence of offences under the Act,A no further action disposal,12:10:00+00:00,other,other
+191,Person search,2026-08-31,Male,18-24,Black/African/Caribbean/Black British - African,Black,Detailed object of search unavailable,A no further action disposal,13:08:00+00:00,other,other
+192,Person search,2026-08-31,Male,10-17,Other ethnic group - Not stated,Black,Offensive weapons,A no further action disposal,13:11:00+00:00,other,other
+199,Person search,2026-08-31,Male,18-24,Other ethnic group - Not stated,Black,Evidence of offences under the Act,A no further action disposal,15:35:00+00:00,other,other
+212,Person and Vehicle search,2026-08-31,Male,18-24,Black/African/Caribbean/Black British - African,Black,Controlled drugs,Arrest,16:32:00+00:00,other,other
+215,Person search,2026-08-31,Male,18-24,Black/African/Caribbean/Black British - Caribbean,Black,Controlled drugs,Community resolution,16:32:00+00:00,other,other
+224,Person search,2026-08-31,Male,10-17,Black/African/Caribbean/Black British - Caribbean,Black,Evidence of offences under the Act,Arrest,16:47:00+00:00,other,other
+226,Person search,2026-08-31,Male,10-17,Black/African/Caribbean/Black British - African,Black,Offensive weapons,A no further action disposal,17:29:00+00:00,other,other
